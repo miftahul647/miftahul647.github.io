@@ -467,8 +467,8 @@ header .follow a:hover {
 }
 
 .portfolio .box-container .box:hover img {
-  height: 45%;
-  width: 45%;
+  height: 25%;
+  width: 25%;
 }
 
 .portfolio .box-container .box h3 {
